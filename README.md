@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate developer, experienced full-stack
 ## 📊 GitHub Stats
 
 ![Qasim Talkin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QasimTalkin&show_icons=true&theme=dark)
-
+<!--
 ## 📦 My Repositories
 
 Here are some of my notable repositories:
@@ -44,12 +44,12 @@ Here are some of my notable repositories:
 📂 [Repo 3](https://github.com/QasimTalkin/repo3) - A Python script for data analysis and visualization.
 
 Feel free to explore them and provide feedback or contributions!
-
+-->
 ## 🌐 Connect with Me
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me:
 
-📫 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasim-talkin)
+📫 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/abulqasim)
 🐦 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/QasimTalkin)
 💼 [![Portfolio](https://img.shields.io/badge/-Portfolio-1f425f?style=for-the-badge&logo=javascript&logoColor=white)](https://www.example.com)
 
