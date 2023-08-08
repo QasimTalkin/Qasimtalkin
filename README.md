@@ -54,7 +54,5 @@ Let's connect and collaborate on exciting projects! Feel free to reach out to me
 💼 [![Portfolio](https://img.shields.io/badge/-Portfolio-1f425f?style=for-the-badge&logo=javascript&logoColor=white)](https://www.example.com)
 
 Looking forward to connecting with you and bringing exciting ideas to life! 😄
-
-![Dancing](https://media.giphy.com/media/3oEjHSlWz52Ig1lDrW/giphy.gif)
 ![Rocket](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-![Code](https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFv/giphy.gif)
+
