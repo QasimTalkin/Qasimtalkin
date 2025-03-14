@@ -31,27 +31,6 @@ Welcome to my GitHub profile! I'm a passionate developer, experienced full-stack
 🔧 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 🔧 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Qasim Talkin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QasimTalkin&show_icons=true&theme=dark)
-<!--
-## 📦 My Repositories
-
-Here are some of my notable repositories:
-
-📂 [Repo 1](https://github.com/QasimTalkin/repo1) - A web application for managing tasks and deadlines using React and Node.js.
-📂 [Repo 2](https://github.com/QasimTalkin/repo2) - A responsive website template built with HTML, CSS, and JavaScript.
-📂 [Repo 3](https://github.com/QasimTalkin/repo3) - A Python script for data analysis and visualization.
-
-Feel free to explore them and provide feedback or contributions!
--->
-## 🌐 Connect with Me
-
-Let's connect and collaborate on exciting projects! Feel free to reach out to me:
-
-📫 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/abulqasim)
-🐦 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/QasimTalkin)
-💼 [![Portfolio](https://img.shields.io/badge/-Portfolio-1f425f?style=for-the-badge&logo=javascript&logoColor=white)](https://www.example.com)
 
 Looking forward to connecting with you and bringing exciting ideas to life! 😄
 ![Rocket](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
