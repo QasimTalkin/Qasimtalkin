@@ -33,5 +33,6 @@ Welcome to my GitHub profile! I'm a passionate developer, experienced full-stack
 
 
 Looking forward to connecting with you and bringing exciting ideas to life! 😄
+<br>
 ![Rocket](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
