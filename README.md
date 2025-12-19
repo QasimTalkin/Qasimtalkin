@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abulqasim)
 [![Email](https://img.shields.io/badge/Email-abulqasim110%40gmail.com-red?logo=gmail)](mailto:abulqasim110@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-black?logo=adobeacrobatreader)](Resume_Abul%20Qasim%20-%20Software%20Engineering%20Manager.pdf)
 
 
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
