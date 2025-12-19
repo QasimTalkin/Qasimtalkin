@@ -1,6 +1,11 @@
 # Hi there! 👋 I'm Abul Qasim ✨
 
-Welcome to my GitHub profile! I'm a passionate developer, experienced full-stack engineer, and dedicated instructor. With a strong background in various technologies, I love building innovative projects and sharing my knowledge with others. 💻🌟
+> Engineering leader building resilient teams and enterprise platforms across martech, health, and fintech.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abulqasim)
+[![Email](https://img.shields.io/badge/Email-abulqasim110%40gmail.com-red?logo=gmail)](mailto:abulqasim110@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-black?logo=adobeacrobatreader)](Resume_Abul%20Qasim%20-%20Software%20Engineering%20Manager.pdf)
+
 
 ![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
