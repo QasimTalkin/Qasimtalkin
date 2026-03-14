@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <p><b>Engineering leader building resilient teams and enterprise platforms across martech, health, and fintech.</b></p>
+  <p><b>Software Engineering manager building resilient teams and enterprise platforms across martech, health, and fintech.</b></p>
   
   <a href="https://abulqasim.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#00ff41" alt="Portfolio" />
@@ -30,7 +30,7 @@
 ## 👨‍💻 About Me
 
 * 🚀 I'm currently working as a **Software Engineering Manager** leading high-performing full-stack teams.
-* 🎓 I have extensive experience as a **Professor & Instructor**, having mentored 100+ developers in advanced computing and full-stack development.
+* 🎓 I have extensive experience as a **Professor & Instructor**, having mentored developers in advanced computing and full-stack development.
 * ⚙️ I specialize in **Enterprise Architecture, Cloud-Native Solutions, and Pragmatic Delivery**.
 * 🌱 I'm currently exploring advanced AI integration, scalable distributed systems, and modern frontend tooling.
 * 💬 Ask me about **scaling engineering teams, Ruby on Rails, React, Node.js, and cloud architecture**.
