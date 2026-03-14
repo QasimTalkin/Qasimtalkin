@@ -4,36 +4,46 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Manager;Full+Stack+Developer+%26+Educator;Building+Scalable+Products;Mentoring+the+Next+Generation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Manager;AI+Strategy+%26+Digital+Transformation;Full+Stack+Developer+%26+Educator;Building+AI-Empowered+Teams" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
-  <p><b>Software Engineering manager building resilient teams and enterprise platforms across martech, health, and fintech.</b></p>
+  <p><b>Software Engineering Manager building resilient teams and enterprise platforms across martech, health, and fintech.</b></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=QasimTalkin&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
+  <br/><br/>
   
   <a href="https://abulqasim.net" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#00ff41" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%231E293B.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/abulqasim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/QasimTalkin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="mailto:abulqasim110@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
+  <br/><br/>
+  <img src="https://img.shields.io/github/followers/QasimTalkin?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/QasimTalkin?label=Stars&style=social" alt="Stars" />
 </div>
 
 <br/>
 
 ## 👨‍💻 About Me
 
-* 🚀 I'm currently working as a **Software Engineering Manager** leading high-performing full-stack teams.
-* 🎓 I have extensive experience as a **Professor & Instructor**, having mentored developers in advanced computing and full-stack development.
-* ⚙️ I specialize in **Enterprise Architecture, Cloud-Native Solutions, and Pragmatic Delivery**.
-* 🌱 I'm currently exploring advanced AI integration, scalable distributed systems, and modern frontend tooling.
-* 💬 Ask me about **scaling engineering teams, Ruby on Rails, React, Node.js, and cloud architecture**.
+* 🚀 I'm a **Software Engineering Manager** specializing in scaling high-performing teams and building scalable, cloud-native enterprise architectures.
+* 🎓 **Educator & Mentor**: Extensive background as a Professor, empowering developers to master advanced full-stack systems and engineering principles.
+* ⚡ **Pragmatic Delivery**: Focus on aligning technical strategy with business outcomes to drive measurable value.
+
+---
+
+## 🤖 AI Leadership & Digital Transformation
+
+* 🏗️ **AI Strategy**: Driving solutions with AI best practices, focusing on robust integration, data ethics, and scalable AI infrastructure.
+* 👥 **Team Empowerment**: Coaching and leading teams to adapt, grow, and leverage AI tools to multiply productivity and innovation.
+* 🔄 **Modernizing Enterprise**: Transitioning legacy workflows into AI-ready architectures, ensuring long-term technical excellence.
 
 ---
 
@@ -41,14 +51,13 @@
 
 <div align="center">
   <br />
-  
   <img src="https://skillicons.dev/icons?i=ts,js,python,ruby,java,cpp" />
   <br />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,rails,spring,express" />
   <br />
   <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mysql,redis,mongodb" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,html,css" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,git,github,vscode" />
 </div>
 
 <br />
