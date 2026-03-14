@@ -35,11 +35,9 @@
 
 ## 👨‍💻 About Me
 
-* 🚀 **Engineering Leadership**: Successfully leading teams of 7+ engineers to deliver 100% on-time delivery of enterprise-scale products.
-* 🏛️ **Architecture & Scale**: Architected microservices solutions achieving **99.9% uptime** and modernized legacy financial systems handling $50M+ in assets.
-* 🎓 **Educator & Mentor**: Professor & Bootcamp Instructor; mentored 100+ students annually and promoted 20+ junior developers to senior roles.
-* ⚡ **Pragmatic Delivery**: 95% sprint success rate with a focus on enterprise-grade stability and digital transformation.
-
+* 🚀 I'm a **Software Engineering Manager** specializing in scaling high-performing teams and building scalable, cloud-native enterprise architectures.
+* 🎓 **Educator & Mentor**: Extensive background as a Professor, empowering developers to master advanced full-stack systems and engineering principles.
+* ⚡ **Pragmatic Delivery**: Focus on aligning technical strategy with business outcomes to drive measurable value.
 ---
 
 ## 🤖 AI Leadership & Digital Transformation
