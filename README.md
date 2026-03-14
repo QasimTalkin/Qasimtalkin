@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <p><b>Results-driven Software Engineering Manager with 9+ years experience leading high-performing cross-functional teams of 7+ engineers.</b></p>
+  <p><b>Results-driven Software Engineering Manager with 9+ years experience leading high-performing cross-functional teams.</b></p>
   
   <img src="https://komarev.com/ghpvc/?username=QasimTalkin&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
   <br/><br/>
