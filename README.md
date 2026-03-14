@@ -1,42 +1,75 @@
-# Hi there! 👋 I'm Abul Qasim ✨
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=250&section=header&text=Abul%20Qasim&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Header" />
+</div>
 
-> Engineering leader building resilient teams and enterprise platforms across martech, health, and fintech.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Engineering+Manager;Full+Stack+Developer+%26+Educator;Building+Scalable+Products;Mentoring+the+Next+Generation" alt="Typing SVG" />
+  </a>
+</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abulqasim)
-[![Email](https://img.shields.io/badge/Email-abulqasim110%40gmail.com-red?logo=gmail)](mailto:abulqasim110@gmail.com)
+<div align="center">
+  <p><b>Engineering leader building resilient teams and enterprise platforms across martech, health, and fintech.</b></p>
+  
+  <a href="https://abulqasim.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#00ff41" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/abulqasim" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/QasimTalkin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:abulqasim110@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
+<br/>
 
-![Coding](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+## 👨‍💻 About Me
 
-## 🚀 About Me
+* 🚀 I'm currently working as a **Software Engineering Manager** leading high-performing full-stack teams.
+* 🎓 I have extensive experience as a **Professor & Instructor**, having mentored 100+ developers in advanced computing and full-stack development.
+* ⚙️ I specialize in **Enterprise Architecture, Cloud-Native Solutions, and Pragmatic Delivery**.
+* 🌱 I'm currently exploring advanced AI integration, scalable distributed systems, and modern frontend tooling.
+* 💬 Ask me about **scaling engineering teams, Ruby on Rails, React, Node.js, and cloud architecture**.
 
-👨‍💻 Experienced full-stack developer with expertise in web development.
-🌱 Constantly exploring new technologies, frameworks, and tools to stay up-to-date in the ever-evolving tech landscape.
-✨ Love coding and building projects that make a positive impact.
-🎓 Enjoy sharing knowledge and mentoring aspiring developers.
+---
 
-## ⚙️ Technologies and Tools
+## 🛠️ Languages & Tools
 
-🔧 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-🔧 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-🔧 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-🔧 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-🔧 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-🔧 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-🔧 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-🔧 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-🔧 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-🔧 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-🔧 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-🔧 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-🔧 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-🔧 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-🔧 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-🔧 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-🔧 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+<div align="center">
+  <br />
+  
+  <img src="https://skillicons.dev/icons?i=ts,js,python,ruby,java,cpp" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,rails,spring,express" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mysql,redis,mongodb" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,html,css" />
+</div>
 
+<br />
 
-Looking forward to connecting with you and bringing exciting ideas to life! 😄
-<br>
-![Rocket](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <br />
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=QasimTalkin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="QasimTalkin's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QasimTalkin&theme=tokyonight&hide_border=true" alt="QasimTalkin's GitHub Streak" />
+  </div>
+  
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimTalkin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer" alt="Footer" />
+</div>
