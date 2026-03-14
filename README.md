@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=250&section=header&text=Abul%20Qasim&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&height=250&section=header&text=Abul%20Qasim&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Engineering+Manager;Full+Stack+Developer+%26+Educator;Building+Scalable+Products;Mentoring+the+Next+Generation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Manager;Full+Stack+Developer+%26+Educator;Building+Scalable+Products;Mentoring+the+Next+Generation" alt="Typing SVG" />
   </a>
 </h1>
 
 <div align="center">
   <p><b>Software Engineering manager building resilient teams and enterprise platforms across martech, health, and fintech.</b></p>
   
-  <a href="https://abulqasim.dev" target="_blank">
+  <a href="https://abulqasim.net" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#00ff41" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/abulqasim" target="_blank">
@@ -60,16 +60,16 @@
 <div align="center">
   <br />
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=QasimTalkin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="QasimTalkin's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QasimTalkin&theme=tokyonight&hide_border=true" alt="QasimTalkin's GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=QasimTalkin&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="QasimTalkin's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QasimTalkin&theme=github-dark-dimmed&hide_border=true" alt="QasimTalkin's GitHub Streak" />
   </div>
   
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimTalkin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimTalkin&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&height=100&section=footer" alt="Footer" />
 </div>
