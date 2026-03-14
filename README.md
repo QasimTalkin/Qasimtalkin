@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-  <p><b>Software Engineering Manager building resilient teams and enterprise platforms across martech, health, and fintech.</b></p>
+  <p><b>Results-driven Software Engineering Manager with 9+ years experience leading high-performing cross-functional teams of 7+ engineers.</b></p>
   
   <img src="https://komarev.com/ghpvc/?username=QasimTalkin&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
   <br/><br/>
@@ -31,11 +31,14 @@
 
 <br/>
 
+---
+
 ## 👨‍💻 About Me
 
-* 🚀 I'm a **Software Engineering Manager** specializing in scaling high-performing teams and building scalable, cloud-native enterprise architectures.
-* 🎓 **Educator & Mentor**: Extensive background as a Professor, empowering developers to master advanced full-stack systems and engineering principles.
-* ⚡ **Pragmatic Delivery**: Focus on aligning technical strategy with business outcomes to drive measurable value.
+* 🚀 **Engineering Leadership**: Successfully leading teams of 7+ engineers to deliver 100% on-time delivery of enterprise-scale products.
+* 🏛️ **Architecture & Scale**: Architected microservices solutions achieving **99.9% uptime** and modernized legacy financial systems handling $50M+ in assets.
+* 🎓 **Educator & Mentor**: Professor & Bootcamp Instructor; mentored 100+ students annually and promoted 20+ junior developers to senior roles.
+* ⚡ **Pragmatic Delivery**: 95% sprint success rate with a focus on enterprise-grade stability and digital transformation.
 
 ---
 
@@ -51,13 +54,13 @@
 
 <div align="center">
   <br />
-  <img src="https://skillicons.dev/icons?i=ts,js,python,ruby,java,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,ruby,java,cpp,cs" />
   <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,rails,spring,express" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,rails,spring,express,vue,angular" />
   <br />
-  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mysql,redis,mongodb" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mysql,mongodb,redis" />
   <br />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,kafka,git,github,vscode,linux" />
 </div>
 
 <br />
@@ -65,6 +68,10 @@
 ---
 
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=QasimTalkin&theme=github_dark_dimmed&no-frame=true" alt="Trophy" />
+</p>
 
 <div align="center">
   <br />
@@ -75,6 +82,9 @@
   
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QasimTalkin&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QasimTalkin&theme=github-dark-dimmed&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <br />
